@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Devops
 - 💬 Ask me anything about Mern and DevOps 
 - 📫 How to reach me: abuzarkhan1242@gmail.com
-- 😄 My website: https://myportfolio-gamma-ten.vercel.app
+- 😄 My website: https://abuzarkhan1.github.io/Abuzar/
   
 ### Connect with me:
 <div id="badges">
