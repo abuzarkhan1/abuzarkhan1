@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,react,nextjs,nodejs,bash,python,express,mongodb,mysql,redis,git,postman,vscode,github,linux,jenkins,docker,kubernetes,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,react,nextjs,nodejs,bash,python,express,mongodb,mysql,redis,git,postman,vscode,github,linux,jenkins,docker,kubernetes,argocd,prometheus,grafana,aws&perline=6)](https://skillicons.dev)
 
 
 
